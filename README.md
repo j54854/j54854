@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-He earned a Doctor of Engineering Degree from Kyoto University in 1999 in the field of Manufacturing Systems Engineering and is currently a Professor in the Department of Industrial and Systems Engineering, Aoyama Gakuin University, Japan. His current research interests include agent-based modeling and analysis of production, logistics, and service systems, and supply chains, collective intelligence and collaboration mechanisms, human and social computation, serious gaming and gamification, etc.
+He earned his Doctor of Engineering degree in Manufacturing Systems Engineering from Kyoto University in 1999 and is currently a Professor in the Department of Industrial and Systems Engineering at Aoyama Gakuin University, Japan. His research interests include agent-based modeling and analysis of production, logistics, and service systems, as well as supply chains, collective intelligence and collaboration mechanisms, human and social computation, and applications of serious gaming and gamification.
